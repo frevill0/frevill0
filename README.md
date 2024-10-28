@@ -15,6 +15,7 @@ Currently, I'm honing my skills in:
 - **Databases and DevOps:** SSMS, pm2, IIS
 
 📚 I'm a student at the **Escuela Politécnica Nacional** and passionate about continuous learning and sharing knowledge with the community.
+💼 I currently work at **Quito Tenis & Golf Club**, where I'm developing a management system to support the auditing department with streamlined solutions.
 
 ---
 
@@ -27,7 +28,7 @@ Currently, I'm honing my skills in:
 ---
 
 ## 📈 Featured Projects
-- **[Arast Project](https://github.com/yourusername/Arast)** - A billing management system for Quito tennis & Golf Club club.
+- **[Arast Project](https://github.com/yourusername/Arast)** - A billing management system for Quito tennis & Golf Club.
 ---
 
 ## 🤝 Connect with Me
